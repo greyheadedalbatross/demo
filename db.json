@@ -1,4 +1,5 @@
-{
+[
+  {
     "server": "198.199.101.152",
     "server_port": 8388,
     "password": "u1rRWTssNv0p",
@@ -28,3 +29,4 @@
     },
     "udpdns": false
   }
+]
