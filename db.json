@@ -1,20 +1,20 @@
 {
   "servers": [
     {
-      "server": "198.199.101.152",
-      "server_port": 8388,
+      "host": "198.199.101.152",
+      "port": 8388,
       "password": "u1rRWTssNv0p",
       "method": "aes-256-cfb",
-      "remarks": "sdfhayabusa ssssssss"
+      "name": "sdfhayabusa ssssssss"
     },
     {
-      "server": "198.199.101.12",
-      "server_port": 8388,
+      "host": "198.199.101.12",
+      "port": 8388,
       "password": "u1rRWTssNv0p",
       "method": "aes-256-cfb",
       "plugin": "v2ray",
       "plugin_opts": "host=www.example.com",
-      "remarks": "Example 2",
+      "name": "Example 2",
       "route": "bypass-lan-china",
       "remote_dns": "dns.google",
       "ipv6": true,
