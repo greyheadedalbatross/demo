@@ -11,7 +11,7 @@
     {
       "name": "美国-芝加哥",
       "host": "149.28.67.138",
-      "port": "20515",
+      "port": 20515,
       "password": "YXZvzDD1bfJN",
       "method": "aes-256-cfb",
       "flag": "us"
@@ -19,7 +19,7 @@
     {
       "name": "香港",
       "host": "103.1.153.199",
-      "port": "35842",
+      "port": 35842,
       "password": "0rNGQ9xyPTNJ",
       "method": "aes-256-cfb",
       "flag": "hk"
