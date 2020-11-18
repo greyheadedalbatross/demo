@@ -1,34 +1,28 @@
 {
   "servers": [
     {
+      "name": "日本-东京",
       "host": "198.199.101.152",
       "port": 8388,
       "password": "u1rRWTssNv0p",
       "method": "aes-256-cfb",
-      "name": "日本-东京"
+      "flag": "jp"
     },
     {
-      "host": "198.199.101.12",
-      "port": 8388,
-      "password": "u1rRWTssNv0p",
+      "name": "美国-芝加哥",
+      "host": "149.28.67.138",
+      "port": "20515",
+      "password": "YXZvzDD1bfJN",
       "method": "aes-256-cfb",
-      "plugin": "v2ray",
-      "plugin_opts": "host=www.example.com",
-      "name": "Example 2",
-      "route": "bypass-lan-china",
-      "remote_dns": "dns.google",
-      "ipv6": true,
-      "metered": false,
-      "proxy_apps": {
-        "enabled": true,
-        "bypass": true,
-        "android_list": [
-          "com.eg.android.AlipayGphone",
-          "com.wudaokou.hippo",
-          "com.zhihu.android"
-        ]
-      },
-      "udpdns": false
+      "flag": "us"
+    },
+    {
+      "name": "香港",
+      "host": "103.1.153.199",
+      "port": "35842",
+      "password": "0rNGQ9xyPTNJ",
+      "method": "aes-256-cfb",
+      "flag": "hk"
     }
   ]
 }
