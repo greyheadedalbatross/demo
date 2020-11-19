@@ -26,8 +26,8 @@
     },
     {
       "name": "台湾",
-      "host": "103.1.153.199",
-      "port": 35842,
+      "host": "103.1.153.122",
+      "port": 35822,
       "password": "0rNGQ9xyPTNJ",
       "method": "chacha20-ietf-poly1305",
       "flag": "hk"
