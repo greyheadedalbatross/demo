@@ -30,7 +30,13 @@
       "port": 35822,
       "password": "0rNGQ9xyPTNJ",
       "method": "chacha20-ietf-poly1305",
-      "flag": "hk"
-    }
+      "flag": "tw"
+    },
+    "name": "美国-洛杉矶",
+      "host": "103.1.143.122",
+      "port": 35822,
+      "password": "0rNGQ9xyPTNJ",
+      "method": "chacha20-ietf-poly1305",
+      "flag": "us"
   ]
 }
