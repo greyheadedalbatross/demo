@@ -23,6 +23,14 @@
       "password": "0rNGQ9xyPTNJ",
       "method": "chacha20-ietf-poly1305",
       "flag": "us"
+    },
+    {
+      "name": "香港",
+      "host": "103.1.153.199",
+      "port": 34842,
+      "password": "0rNGQ9xyPTNJ",
+      "method": "chacha20-ietf-poly1305",
+      "flag": "hk"
     }
   ]
 }
