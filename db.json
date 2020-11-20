@@ -30,7 +30,7 @@
       "port": 35822,
       "password": "0rNGQ9xyPTNJ",
       "method": "chacha20-ietf-poly1305",
-      "flag": "esp"
+      "flag": "es"
     },
     {
       "name": "美国-UNKOWN",
