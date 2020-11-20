@@ -10,7 +10,7 @@
     },
     {
       "name": "西班牙-慢速",
-      "host": "5.134.119.204",
+      "host": "150.107.75.78",
       "port": 35822,
       "password": "0rNGQ9xyPTNJ",
       "method": "chacha20-ietf-poly1305",
