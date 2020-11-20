@@ -17,14 +17,6 @@
       "flag": "hk"
     },
     {
-      "name": "台湾",
-      "host": "103.1.153.122",
-      "port": 35822,
-      "password": "0rNGQ9xyPTNJ",
-      "method": "chacha20-ietf-poly1305",
-      "flag": "tw"
-    },
-    {
       "name": "西班牙-慢速",
       "host": "5.134.119.204",
       "port": 35822,
