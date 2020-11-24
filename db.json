@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "香港",
-      "host": "103.1.153.199",
+      "host": "139.180.198.92",
       "port": 35842,
       "password": "0rNGQ9xyPTNJ",
       "method": "chacha20-ietf-poly1305",
@@ -26,48 +26,8 @@
     },
     {
       "name": "香港",
-      "host": "103.1.153.199",
+      "host": "139.180.198.92",
       "port": 35842,
-      "password": "0rNGQ9xyPTNJ",
-      "method": "chacha20-ietf-poly1305",
-      "flag": "hk"
-    },
-    {
-      "name": "香港",
-      "host": "103.1.153.199",
-      "port": 35842,
-      "password": "0rNGQ9xyPTNJ",
-      "method": "chacha20-ietf-poly1305",
-      "flag": "hk"
-    },
-    {
-      "name": "香港",
-      "host": "103.1.153.199",
-      "port": 35542,
-      "password": "0rNGQ9xyPTNJ",
-      "method": "chacha20-ietf-poly1305",
-      "flag": "hk"
-    },
-    {
-      "name": "香港",
-      "host": "103.1.153.199",
-      "port": 35142,
-      "password": "0rNGQ9xyPTNJ",
-      "method": "chacha20-ietf-poly1305",
-      "flag": "hk"
-    },
-    {
-      "name": "香港",
-      "host": "103.1.153.199",
-      "port": 35342,
-      "password": "0rNGQ9xyPTNJ",
-      "method": "chacha20-ietf-poly1305",
-      "flag": "hk"
-    },
-    {
-      "name": "香港",
-      "host": "103.1.153.199",
-      "port": 35242,
       "password": "0rNGQ9xyPTNJ",
       "method": "chacha20-ietf-poly1305",
       "flag": "hk"
