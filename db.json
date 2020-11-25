@@ -1,36 +1,28 @@
 {
   "servers": [
     {
-      "name": "香港",
+      "name": "日本-东京",
       "host": "139.180.198.92",
-      "port": 35842,
-      "password": "0rNGQ9xyPTNJ",
+      "port": 12138,
+      "password": "UE4H2rTN2mC9",
       "method": "chacha20-ietf-poly1305",
-      "flag": "hk"
+      "flag": "jp"
     },
     {
-      "name": "西班牙-慢速",
-      "host": "150.107.75.78",
-      "port": 35822,
-      "password": "0rNGQ9xyPTNJ",
-      "method": "chacha20-ietf-poly1305",
-      "flag": "es"
-    },
-    {
-      "name": "美国-UNKOWN",
-      "host": "103.1.143.122",
-      "port": 35822,
-      "password": "0rNGQ9xyPTNJ",
+      "name": "美国-芝加哥",
+      "host": "149.28.67.138",
+      "port": 20515,
+      "password": "X1km20qivVcv",
       "method": "chacha20-ietf-poly1305",
       "flag": "us"
     },
     {
-      "name": "香港-Last",
-      "host": "139.180.198.92",
-      "port": 35842,
-      "password": "0rNGQ9xyPTNJ",
+      "name": "德国-法兰克福",
+      "host": "80.240.28.178",
+      "port": 28207,
+      "password": "kQMdT6RvlAgm",
       "method": "chacha20-ietf-poly1305",
-      "flag": "hk"
+      "flag": "ge"
     }
   ]
 }
