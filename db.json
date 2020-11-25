@@ -31,6 +31,6 @@
       "password": "kQMdT6RvlAgm",
       "method": "chacha20-ietf-poly1305",
       "flag": "gm"
-    },
+    }
   ]
 }
