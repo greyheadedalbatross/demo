@@ -22,7 +22,15 @@
       "port": 28207,
       "password": "kQMdT6RvlAgm",
       "method": "chacha20-ietf-poly1305",
-      "flag": "ge"
-    }
+      "flag": "gm"
+    },
+    {
+      "name": "德国-法兰克福",
+      "host": "80.240.23.178",
+      "port": 28207,
+      "password": "kQMdT6RvlAgm",
+      "method": "chacha20-ietf-poly1305",
+      "flag": "gm"
+    },
   ]
 }
